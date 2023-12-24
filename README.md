@@ -1,4 +1,4 @@
-#README
+# README
 
 This was a final semester project of my freshman year at SIIT, Thammasat University. What I've created is a remake of the classic game Pong using Java.
 
